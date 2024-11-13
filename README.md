@@ -1,7 +1,7 @@
 # SEMANTIC-HTML
 Latihan Praktikum 1 Semantic HTML
 
-## Semantic HTML project
+## Semantic HTML project (OYIN ANJAM 5C_2205101052)
 1. dalam kode HTML yang ada di modul itu ngak ada tag <html> untuk pembuka dan penutup, tag ini penting karena tag ini adalah penampung semua konten dan memastikan kompatibilitas dengan standar web
    
 2. terus ngak ada tag <body> = tag body sangat penting karena dia berfungsi sebagai tempat utama untuk semua konten yang akan ditampilkan halaman web seperti text, gambar, link, dan element lainnya, kalau ngak ada tag <body> browser ngak akan tahu dimana harus menempatkan konten uhalaman utama dan yang terjadi adalah halaman ngak tampil dengan benar
